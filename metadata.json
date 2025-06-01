@@ -1,0 +1,13 @@
+{
+  "name": "JindoDoge",
+  "symbol": "JIN",
+  "description": "JindoDoge is a Solana meme token inspired by the iconic Jindo dog. TO THE MOON!",
+  "image": "https://raw.githubusercontent.com/jindodoge/jindodoge-token/main/logo.png",
+  "decimals": 9,
+  "extensions": {
+    "website": "https://jindodoge.com",
+    "twitter": "https://twitter.com/your_twitter",
+    "discord": "https://discord.gg/your_discord",
+    "github": "https://github.com/jindodoge/jindodoge-token"
+  }
+}
